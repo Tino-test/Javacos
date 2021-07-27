@@ -12,6 +12,9 @@ if(b==a) {
 else {
 	System.out.println("not equal");
 }
+System.out.println(1);
+System.out.println(2);
+System.out.println(3);
 	}
 
 }
